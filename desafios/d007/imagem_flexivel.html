@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio d007 - Imagem Flexível</title>
+    <link rel="shortcut icon" href="../d003/imagens/pingu.ico" type="image/x-icon">
+    </head>
+<body>
+    <h1>Colocando imagem flexível no site</h1>
+    <picture>
+        <source media="(max-width: 800px )" srcset="imagens/paisagem-p.png" alt="paisagem pequena" type="image/png">
+        <source media="(max-width: 1250px )" srcset="imagens/paisagem-m.png" alt="paisagem média" type="image/png">
+        <img src="imagens/paisagem-g.png" alt="paisagem grande">
+    </picture>
+</body>
+</html>
