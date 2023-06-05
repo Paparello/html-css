@@ -2,8 +2,9 @@
  Aprendendo a gerenciar repositórios
  Hoje é 23/set/2022 
 
- <a href="https://paparello.github.io/html-css/exercicios/ex001">Ex001 - Olá Mundo! Títulos, Parágrafos e Quebra de linha</a>
+ <a href="https://paparello.github.io/html-css/exercicios/ex001">Ex001 - Olá Mundo! Título</a>
 
+ <a href="https://paparello.github.io/html-css/exercicios/ex002">Ex002 - Parágrafos e quebras de linha</a>
  
  
  
