@@ -15,6 +15,26 @@
 
  <a href="https://paparello.github.io/html-css/exercicios/ex008">Ex008 - Outras formatações</a>
 
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex009 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex010 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex011 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex012 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex013 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex014 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex015 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex016 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex017 -</a>
+
+<a href="https://paparello.github.io/html-css/exercicios/ex008">Ex018 -</a>
+
  <a href="https://paparello.github.io/html-css/exercicios/ex026/mq002">Executar ex026 mq002 orientação do dispositivo</a>
 
  <a href="https://paparello.github.io/html-css/exercicios/ex026/mq001">Executar ex026 mq001 estilos tela e impressora</a>
