@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            font-family:Arial, Helvetica, sans-serif;
+            background-color: dimgray;
+            margin:0px;
+        }
+
+        header{
+            background-color: white;
+            padding:10px;
+            margin:10px;
+        }
+
+        h1{
+            box-shadow: inset 2px 1px 14px 6px rgba(0, 0, 0, 0.199);
+        }
+
+        nav{
+            background-color: rgb(102,102,102);
+            padding:3px;
+            box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.315);
+        }
+
+        nav > a{
+            text-decoration: none;
+            color:white;
+            font-weight: bold;
+            margin-right: 30px;
+        }
+
+        nav > a:hover{
+            text-decoration: underline;
+        }
+
+        main{
+            background-color: white;
+            padding:10px;
+            margin:10px;
+            border-radius: 10px 0px;
+            box-shadow: 4px 4px 9px rgba(0, 0, 0, 0.384);
+        }
+
+        article{
+            background-color: lightgray;
+            padding:5px;
+        }
+
+        article > aside{
+            background-color:rgb(161, 160, 160);
+        }
+
+        footer{
+            background-color:black;
+            color:white;
+            padding:4px;
+            text-align:center;
+            margin:0px;    
+        }
+
+        footer > p{
+            margin:0px;
+        }
+
+        #bola{
+            height: 100px;
+            width: 100px;
+            background-color: white;
+            margin:40px;
+            border-radius:50px;
+        }
+            </style>
+</head>
+<body>
+    <header>
+        <h1>CABEÇALHO</h1>
+        <nav>
+            <a href="#">Menu   </a>
+            <a href="#">Menu   </a>
+            <a href="#">Menu   </a>
+            <a href="#">Menu   </a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="Assuntos">
+            <p>Esportes Política Tecnologia</p>
+        </section>
+
+        <section id="Notícias">
+            <article>
+                <h2>Notícias sobre o Palmeiras</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti non, perspiciatis beatae suscipit voluptatum quam natus inventore asperiores, consequuntur deleniti facilis repellat expedita libero voluptas culpa neque sunt porro fugit!</p>
+                <aside>
+                    <p>Escrito por Pingo em Agosto 2022</p>
+                </aside>
+            </article>
+            <article>
+
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>desenvolvido por Pingo em agosto/2022</p>
+    </footer>
+
+    <div id="bola">
+
+    </div>
+
+</body>
+</html>
