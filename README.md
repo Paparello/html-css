@@ -9,11 +9,11 @@
  
  <a href="https://paparello.github.io/html-css/exercicios/ex004">Ex004 - Teste de favicon</a>
  
- <a href="https://paparello.github.io/html-css/exercicios/ex005">Ex006 - Hierarquia de títulos</a>
+ <a href="https://paparello.github.io/html-css/exercicios/ex006">Ex006 - Hierarquia de títulos</a>
  
- <a href="https://paparello.github.io/html-css/exercicios/ex006">Ex007 - Formatação de textos </a>
+ <a href="https://paparello.github.io/html-css/exercicios/ex007">Ex007 - Formatação de textos </a>
  
- <a href="https://paparello.github.io/html-css/exercicios/ex007">Ex002 - Parágrafos e quebras de linha</a>
+ <a href="https://paparello.github.io/html-css/exercicios/ex008">Ex008 - </a>
 
  <a href="https://paparello.github.io/html-css/exercicios/ex026/mq002">Executar ex026 mq002 orientação do dispositivo</a>
 
