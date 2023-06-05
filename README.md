@@ -13,7 +13,7 @@
  
  <a href="https://paparello.github.io/html-css/exercicios/ex007">Ex007 - Formatação de textos </a>
  
- <a href="https://paparello.github.io/html-css/exercicios/ex008">Ex008 - </a>
+ <a href="https://paparello.github.io/html-css/exercicios/ex008">Ex008 - Outras formatações</a>
 
  <a href="https://paparello.github.io/html-css/exercicios/ex026/mq002">Executar ex026 mq002 orientação do dispositivo</a>
 
